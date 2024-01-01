@@ -11,7 +11,7 @@ A popular approach for parameter optimization in multilayer Moore-Penrose invers
 
 ## Learning Structure:
 
-<img src="https://github.com/W1AE/DRMPI/blob/main/flowchat.jpg" width="550" height="185" />
+<img src="https://github.com/1027051515/Code_RE/blob/main/F1.jpg" width="550" height="185" />
 Fig. 1 Flowchart of the proposed MMPI-RC.
 
 ## Downloads:
