@@ -26,9 +26,9 @@ Fig. 1 Flowchart of the proposed MMPI-RC.
 
 ## Reproduce the Experimental Results
 
-#Please download "Caltech-101-testing", "Caltech-101-training", and "Demo_Caltech101". Put all the files within one folder (For reading files in MATLAB properly).
+* Please download "Caltech-101-testing", "Caltech-101-training", and "Demo_Caltech101". Put all the files within one folder (For reading files in MATLAB properly).
 
-#Run Code_RE.m for reproducing results.
+* Run Code_RE.m for reproducing results.
 
-#The code is released in content-obscured version (p files). After acceptance of the manuscript (if decided so), the source code will be made public.
+* The code is released in content-obscured version (p files). After acceptance of the manuscript (if decided so), the source code will be made public.
 
